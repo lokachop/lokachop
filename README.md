@@ -1,5 +1,6 @@
 # Lokachop
 Hello! I am a person from Spain and i mostly code in lua in LÖVE2D / GMOD
+
 Most of my projects are either computer rendering related or games
 
 ### Contacting
@@ -31,4 +32,4 @@ A 3D library for GMOD that allows you to render custom scenes using the mesh. li
 The source code for my entry on the LÖVE 2023 gamejam
 
 ### [PreProcessor](https://github.com/lokachop/PreProcessor)
-Another gamejam entry, this one is way more subpar than the other 2, but it was made in 3 days
+Another gamejam entry, this one is way worse than the other ones, but it was made in only 3 days
